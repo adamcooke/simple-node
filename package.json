@@ -5,5 +5,8 @@
   "author": "Adam Cooke <adam@viaduct.io>",
   "license": "MIT",
   "main": "server.js",
-  "dependencies": {}
+  "dependencies": {},
+  "engines":{
+    "node":"0.10.x"
+  }
 }
