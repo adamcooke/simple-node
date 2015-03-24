@@ -1,0 +1,9 @@
+{
+  "name": "SimpleNode",
+  "version": "1.0.0",
+  "description": "A basic Node application ",
+  "author": "Adam Cooke <adam@viaduct.io>",
+  "license": "MIT",
+  "main": "server.js",
+  "dependencies": {}
+}
